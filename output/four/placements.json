@@ -1,0 +1,90 @@
+{
+  "text": "高速素粒",
+  "font": "/home/arcyleung/Projects/compressed-chinese/ZenOldMincho-Regular.ttf",
+  "size": 220,
+  "height_bound": 220,
+  "window": [
+    -121,
+    319
+  ],
+  "max_cover": 0.22,
+  "max_thickness_px": 18,
+  "placements": [
+    {
+      "char": "高",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "char": "速",
+      "x": 135,
+      "y": 27,
+      "dx": 135,
+      "dy": 27,
+      "score": 457.6,
+      "overlap_pixels": 1016,
+      "stroke_pixels": 973,
+      "junk_pixels": 43,
+      "stroke_count": 1,
+      "groups": 1,
+      "cover": 0.091,
+      "invasion": 0.1989,
+      "strokes": [
+        {
+          "orientation": "V",
+          "thickness": 13,
+          "pixels": 973
+        }
+      ]
+    },
+    {
+      "char": "素",
+      "x": 163,
+      "y": -108,
+      "dx": 28,
+      "dy": -135,
+      "score": 240.1,
+      "overlap_pixels": 1180,
+      "stroke_pixels": 1076,
+      "junk_pixels": 104,
+      "stroke_count": 2,
+      "groups": 3,
+      "cover": 0.1048,
+      "invasion": 0.1811,
+      "strokes": [
+        {
+          "orientation": "H",
+          "thickness": 7,
+          "pixels": 411
+        },
+        {
+          "orientation": "V",
+          "thickness": 12,
+          "pixels": 749
+        }
+      ]
+    },
+    {
+      "char": "粒",
+      "x": 211,
+      "y": 43,
+      "dx": 48,
+      "dy": 151,
+      "score": 308.3,
+      "overlap_pixels": 565,
+      "stroke_pixels": 554,
+      "junk_pixels": 11,
+      "stroke_count": 1,
+      "groups": 1,
+      "cover": 0.0509,
+      "invasion": 0.1238,
+      "strokes": [
+        {
+          "orientation": "V",
+          "thickness": 12,
+          "pixels": 554
+        }
+      ]
+    }
+  ]
+}

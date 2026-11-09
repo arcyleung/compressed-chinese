@@ -1,0 +1,259 @@
+{
+  "text": "高速素粒子衝突型加速器",
+  "font": "/home/arcyleung/Projects/compressed-chinese/ZenOldMincho-Regular.ttf",
+  "size": 220,
+  "height_bound": 220,
+  "window": [
+    -121,
+    319
+  ],
+  "max_cover": 0.22,
+  "max_thickness_px": 18,
+  "placements": [
+    {
+      "char": "高",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "char": "速",
+      "x": 135,
+      "y": 27,
+      "dx": 135,
+      "dy": 27,
+      "score": 457.6,
+      "overlap_pixels": 1016,
+      "stroke_pixels": 973,
+      "junk_pixels": 43,
+      "stroke_count": 1,
+      "groups": 1,
+      "cover": 0.091,
+      "invasion": 0.1989,
+      "strokes": [
+        {
+          "orientation": "V",
+          "thickness": 13,
+          "pixels": 973
+        }
+      ],
+      "earlier_overlap": 0
+    },
+    {
+      "char": "素",
+      "x": 207,
+      "y": -75,
+      "dx": 72,
+      "dy": -102,
+      "score": 16.2,
+      "overlap_pixels": 1922,
+      "stroke_pixels": 1392,
+      "junk_pixels": 530,
+      "stroke_count": 2,
+      "groups": 4,
+      "cover": 0.1707,
+      "invasion": 0.17,
+      "strokes": [
+        {
+          "orientation": "H",
+          "thickness": 7,
+          "pixels": 771
+        },
+        {
+          "orientation": "V",
+          "thickness": 14,
+          "pixels": 719
+        }
+      ],
+      "earlier_overlap": 0
+    },
+    {
+      "char": "粒",
+      "x": 360,
+      "y": -79,
+      "dx": 153,
+      "dy": -4,
+      "score": -263.8,
+      "overlap_pixels": 548,
+      "stroke_pixels": 284,
+      "junk_pixels": 264,
+      "stroke_count": 1,
+      "groups": 4,
+      "cover": 0.0493,
+      "invasion": 0.1523,
+      "strokes": [
+        {
+          "orientation": "H",
+          "thickness": 7,
+          "pixels": 284
+        }
+      ],
+      "earlier_overlap": 0
+    },
+    {
+      "char": "子",
+      "x": 424,
+      "y": 94,
+      "dx": 64,
+      "dy": 173,
+      "score": 792.0,
+      "overlap_pixels": 861,
+      "stroke_pixels": 854,
+      "junk_pixels": 7,
+      "stroke_count": 1,
+      "groups": 1,
+      "cover": 0.1493,
+      "invasion": 0.0295,
+      "strokes": [
+        {
+          "orientation": "H",
+          "thickness": 7,
+          "pixels": 854
+        }
+      ],
+      "earlier_overlap": 0
+    },
+    {
+      "char": "衝",
+      "x": 530,
+      "y": 114,
+      "dx": 106,
+      "dy": 20,
+      "score": -280.2,
+      "overlap_pixels": 335,
+      "stroke_pixels": 253,
+      "junk_pixels": 82,
+      "stroke_count": 1,
+      "groups": 2,
+      "cover": 0.0581,
+      "invasion": 0.3185,
+      "strokes": [
+        {
+          "orientation": "H",
+          "thickness": 6,
+          "pixels": 253
+        }
+      ],
+      "earlier_overlap": 0
+    },
+    {
+      "char": "突",
+      "x": 678,
+      "y": 18,
+      "dx": 148,
+      "dy": -96,
+      "score": 132.4,
+      "overlap_pixels": 468,
+      "stroke_pixels": 367,
+      "junk_pixels": 101,
+      "stroke_count": 1,
+      "groups": 2,
+      "cover": 0.0444,
+      "invasion": 0.0735,
+      "strokes": [
+        {
+          "orientation": "H",
+          "thickness": 7,
+          "pixels": 367
+        }
+      ],
+      "earlier_overlap": 0
+    },
+    {
+      "char": "型",
+      "x": 736,
+      "y": -99,
+      "dx": 58,
+      "dy": -117,
+      "score": 144.2,
+      "overlap_pixels": 1177,
+      "stroke_pixels": 1026,
+      "junk_pixels": 151,
+      "stroke_count": 2,
+      "groups": 4,
+      "cover": 0.1118,
+      "invasion": 0.1958,
+      "strokes": [
+        {
+          "orientation": "H",
+          "thickness": 7,
+          "pixels": 731
+        },
+        {
+          "orientation": "H",
+          "thickness": 7,
+          "pixels": 295
+        }
+      ],
+      "earlier_overlap": 0
+    },
+    {
+      "char": "加",
+      "x": 858,
+      "y": -71,
+      "dx": 122,
+      "dy": 28,
+      "score": 298.7,
+      "overlap_pixels": 1563,
+      "stroke_pixels": 1267,
+      "junk_pixels": 296,
+      "stroke_count": 1,
+      "groups": 4,
+      "cover": 0.1532,
+      "invasion": 0.1997,
+      "strokes": [
+        {
+          "orientation": "V",
+          "thickness": 14,
+          "pixels": 1267
+        }
+      ],
+      "earlier_overlap": 0
+    },
+    {
+      "char": "速",
+      "x": 999,
+      "y": -58,
+      "dx": 141,
+      "dy": 13,
+      "score": 920.8,
+      "overlap_pixels": 1364,
+      "stroke_pixels": 1300,
+      "junk_pixels": 64,
+      "stroke_count": 1,
+      "groups": 2,
+      "cover": 0.1337,
+      "invasion": 0.1192,
+      "strokes": [
+        {
+          "orientation": "V",
+          "thickness": 13,
+          "pixels": 1300
+        }
+      ],
+      "earlier_overlap": 0
+    },
+    {
+      "char": "器",
+      "x": 1054,
+      "y": 118,
+      "dx": 55,
+      "dy": 176,
+      "score": 652.6,
+      "overlap_pixels": 950,
+      "stroke_pixels": 893,
+      "junk_pixels": 57,
+      "stroke_count": 1,
+      "groups": 2,
+      "cover": 0.0778,
+      "invasion": 0.0765,
+      "strokes": [
+        {
+          "orientation": "H",
+          "thickness": 12,
+          "pixels": 893
+        }
+      ],
+      "earlier_overlap": 0
+    }
+  ]
+}

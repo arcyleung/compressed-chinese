@@ -1,0 +1,116 @@
+{
+  "text": "高速素粒子",
+  "font": "/home/arcyleung/Projects/compressed-chinese/ZenOldMincho-Regular.ttf",
+  "size": 220,
+  "height_bound": 220,
+  "window": [
+    -121,
+    319
+  ],
+  "max_cover": 0.22,
+  "max_thickness_px": 18,
+  "placements": [
+    {
+      "char": "高",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "char": "速",
+      "x": 135,
+      "y": 27,
+      "dx": 135,
+      "dy": 27,
+      "score": 457.6,
+      "overlap_pixels": 1016,
+      "stroke_pixels": 973,
+      "junk_pixels": 43,
+      "stroke_count": 1,
+      "groups": 1,
+      "cover": 0.091,
+      "invasion": 0.1989,
+      "strokes": [
+        {
+          "orientation": "V",
+          "thickness": 13,
+          "pixels": 973
+        }
+      ],
+      "earlier_overlap": 0
+    },
+    {
+      "char": "素",
+      "x": 207,
+      "y": -75,
+      "dx": 72,
+      "dy": -102,
+      "score": 16.2,
+      "overlap_pixels": 1922,
+      "stroke_pixels": 1392,
+      "junk_pixels": 530,
+      "stroke_count": 2,
+      "groups": 4,
+      "cover": 0.1707,
+      "invasion": 0.17,
+      "strokes": [
+        {
+          "orientation": "H",
+          "thickness": 7,
+          "pixels": 771
+        },
+        {
+          "orientation": "V",
+          "thickness": 14,
+          "pixels": 719
+        }
+      ],
+      "earlier_overlap": 0
+    },
+    {
+      "char": "粒",
+      "x": 360,
+      "y": -79,
+      "dx": 153,
+      "dy": -4,
+      "score": -263.8,
+      "overlap_pixels": 548,
+      "stroke_pixels": 284,
+      "junk_pixels": 264,
+      "stroke_count": 1,
+      "groups": 4,
+      "cover": 0.0493,
+      "invasion": 0.1523,
+      "strokes": [
+        {
+          "orientation": "H",
+          "thickness": 7,
+          "pixels": 284
+        }
+      ],
+      "earlier_overlap": 0
+    },
+    {
+      "char": "子",
+      "x": 424,
+      "y": 94,
+      "dx": 64,
+      "dy": 173,
+      "score": 792.0,
+      "overlap_pixels": 861,
+      "stroke_pixels": 854,
+      "junk_pixels": 7,
+      "stroke_count": 1,
+      "groups": 1,
+      "cover": 0.1493,
+      "invasion": 0.0295,
+      "strokes": [
+        {
+          "orientation": "H",
+          "thickness": 7,
+          "pixels": 854
+        }
+      ],
+      "earlier_overlap": 0
+    }
+  ]
+}

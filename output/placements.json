@@ -1,0 +1,134 @@
+{
+  "text": "高速",
+  "font": "/home/arcyleung/Projects/compressed-chinese/ZenOldMincho-Regular.ttf",
+  "size": 220,
+  "max_cover": 0.22,
+  "min_span_px": 39,
+  "max_thickness_px": 18,
+  "best": {
+    "dx": 0,
+    "dy": -157,
+    "score": 647.1,
+    "overlap_pixels": 1174,
+    "stroke_pixels": 1107,
+    "junk_pixels": 67,
+    "stroke_count": 1,
+    "groups": 2,
+    "cover": 0.1052,
+    "invasion": 0.1566,
+    "strokes": [
+      {
+        "orientation": "H",
+        "thickness": 10,
+        "pixels": 1107
+      }
+    ]
+  },
+  "second_below": {
+    "dx": 48,
+    "dy": 129,
+    "score": 152.1,
+    "overlap_pixels": 1274,
+    "stroke_pixels": 1096,
+    "junk_pixels": 178,
+    "stroke_count": 2,
+    "groups": 4,
+    "cover": 0.1141,
+    "invasion": 0.1933,
+    "strokes": [
+      {
+        "orientation": "H",
+        "thickness": 7,
+        "pixels": 427
+      },
+      {
+        "orientation": "V",
+        "thickness": 12,
+        "pixels": 753
+      }
+    ]
+  },
+  "candidates": [
+    {
+      "dx": 0,
+      "dy": -157,
+      "score": 647.1,
+      "overlap_pixels": 1174,
+      "stroke_pixels": 1107,
+      "junk_pixels": 67,
+      "stroke_count": 1,
+      "groups": 2,
+      "cover": 0.1052,
+      "invasion": 0.1566,
+      "strokes": [
+        {
+          "orientation": "H",
+          "thickness": 10,
+          "pixels": 1107
+        }
+      ]
+    },
+    {
+      "dx": 135,
+      "dy": 27,
+      "score": 457.6,
+      "overlap_pixels": 1016,
+      "stroke_pixels": 973,
+      "junk_pixels": 43,
+      "stroke_count": 1,
+      "groups": 1,
+      "cover": 0.091,
+      "invasion": 0.1989,
+      "strokes": [
+        {
+          "orientation": "V",
+          "thickness": 13,
+          "pixels": 973
+        }
+      ]
+    },
+    {
+      "dx": 80,
+      "dy": -157,
+      "score": 252.0,
+      "overlap_pixels": 699,
+      "stroke_pixels": 550,
+      "junk_pixels": 149,
+      "stroke_count": 1,
+      "groups": 2,
+      "cover": 0.0626,
+      "invasion": 0.0763,
+      "strokes": [
+        {
+          "orientation": "H",
+          "thickness": 10,
+          "pixels": 550
+        }
+      ]
+    },
+    {
+      "dx": 48,
+      "dy": 129,
+      "score": 152.1,
+      "overlap_pixels": 1274,
+      "stroke_pixels": 1096,
+      "junk_pixels": 178,
+      "stroke_count": 2,
+      "groups": 4,
+      "cover": 0.1141,
+      "invasion": 0.1933,
+      "strokes": [
+        {
+          "orientation": "H",
+          "thickness": 7,
+          "pixels": 427
+        },
+        {
+          "orientation": "V",
+          "thickness": 12,
+          "pixels": 753
+        }
+      ]
+    }
+  ]
+}
